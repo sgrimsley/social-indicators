@@ -1,5 +1,5 @@
 ## Social Indicator Project
-This project is an extension of my research thesis, which explored developing social indicators from U.S. census data (as applied to TIF districts).  The goal is to develop a program to perform the statistical analysis based on user selected geographies and date ranges.  This will initially include evaluating existing Census Bureau boundaries for percentage in poverty, mean household income, and educational attainment (between 2000 and 2010).  
+This project is an extension of my research thesis, which explored developing social indicators from U.S. census data (as applied to TIF districts).  The goal is to develop a program to perform the statistical analysis based on user selected geographies and date ranges.  This will initially involve evaluating existing Census Bureau boundaries for percentage in poverty, mean household income, and educational attainment (between 2000 and 2010).  
 
 Next steps will include: 
 * Aggregate selected geographic units (ie. block groups)

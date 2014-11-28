@@ -14,3 +14,4 @@ To do:
 * Identify file name for the relevant tables (from SF3, Figure 2-2).  Download files for each state.
 * Evaluate geography file for relevant fields (from SF3, Figure 2-5).
 * Identify initial geographic summary regions of interest (city, congressional district, etc).
+* Explore whether PUMS data is more appropriate than summary data (was not for TIF project, but may be here)

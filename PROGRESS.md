@@ -2,6 +2,23 @@
 
 Much of the early work will involve collecting and evaluating data, before the first line of code is written.  This log will record that progress, because it wouldn't be apparent otherwise.
 
+### 2014-12-28
+* Updated table with reference file numbers
+* Writing function to download files from the U.S. Census ftp server, based on user-defined state and survey info
+
+To do:
+* Work on program to download / unzip files
+* Evaluate geography file for relevant fields
+* Identify initial geographic summary regions of interest (city, congressional district, etc).
+
+Functions (W = write, L = Locate):
+* W: Download sequence files, based on sequence number, publication year, sample duration, and state(s)
+* W: Convert data to one file per state, only columns needed for the project
+* L/W: Recalculate margin of error, from 90% to 95% (for ACS)
+* L/W: Statistical significance, confidence intervals
+* L/W: Standard error (for DCensus)
+* W: Relative position indicator
+
 ### 2014-12-26
 
 Completed:

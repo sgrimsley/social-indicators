@@ -2,6 +2,9 @@
 
 Much of the early work will involve collecting and evaluating data, before the first line of code is written.  This log will record that progress, because it wouldn't be apparent otherwise.
 
+### 2015-03-03
+* Resuming work.  Should have a resolution for the issue from 2015-01-01
+
 ### 2015-01-01
 * Function to download files.  ACS URL generation complete.  Issues encountered with download.file(); exploring RCurl
 

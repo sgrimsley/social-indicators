@@ -2,6 +2,9 @@
 
 Much of the early work will involve collecting and evaluating data, before the first line of code is written.  This log will record that progress, because it wouldn't be apparent otherwise.
 
+### 2015-08-29
+* Resuming work in September.  
+
 ### 2015-05-17
 * On hold from March until July 2015, due to good (but time consuming) life changes.
 

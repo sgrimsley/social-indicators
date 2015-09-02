@@ -1,6 +1,7 @@
 ## Progress updates
 
-Much of the early work will involve collecting and evaluating data, before the first line of code is written.  This log will record that progress, because it wouldn't be apparent otherwise.
+### 2015-09-01
+* Modifying my approach to ensure reproducibility of results.  Will start with code for downloading data files and preparing the data (will post working versions).
 
 ### 2015-08-29
 * Resuming work in September.  
